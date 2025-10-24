@@ -56,7 +56,8 @@ The goal is to demonstrate how *data analysis and visualization* can support bus
 Here’s a snapshot of the interactive dashboard created in Power BI.  
 It highlights total revenue, order trends, and category-wise performance.  
 
-![Dashboard Overview](Screenshots/dashboard_overview.png)
+![Dashboard Overview](![PizzaHut DashBoard](https://github.com/user-attachments/assets/14b19f70-8b06-4fb8-8cf4-a8efa9f3c558)
+)
 
 ---
 
